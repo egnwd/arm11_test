@@ -1,0 +1,25 @@
+<!-- Run Buttons -->
+<!-- <div class="run">
+  <button>
+    Run Part I
+  </button>
+  <button>
+    Run Part II
+  </button>
+  <button>
+    Run Part I &amp; II
+  </button>
+</div> -->
+<!-- Process Viewer -->
+<% `make clean -C ../arm11_8/src/` %>
+<% `make -C ../arm11_8/src/` %>
+  <!-- <%= codeDelim() %> ./assemble add01.s add01          <%= pass() %> -->
+  <% @files = %x(find ../arm11_1415_testsuite/test_cases -type f -name "*.s").split("\n") %>
+<pre class="process-viewer">
+  <% @files.each do |file| %>
+    <% fileName = fileName(file) %>
+    <%= "#{codeDelim()} ./assemble #{fileName}.s #{fileName}".html_safe %>
+    <% `../arm11_8/src/assemble ../arm11_1415_testsuite/test_cases/#{fileName}.s tmp/outputs/#{fileName}` %>
+    <%= "#{outputDelim()} #{output(fileName)}".html_safe %>
+  <% end %>
+</pre>

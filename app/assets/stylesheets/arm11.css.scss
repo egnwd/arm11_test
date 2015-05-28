@@ -1,0 +1,56 @@
+// Place all the styles related to the arm11 controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+$bg-code: #3e3e3e;
+$color-delim: #aaa;
+$color-tick: #27F17C;
+$color-cross: #F50932;
+$color-code: #efefef;
+$button-color: #C53951;
+$button-color-hover: $color-code;
+
+.process-viewer {
+  overflow: scroll;
+  width: 100%;
+  height: 100%;
+  background: $bg-code;
+  padding: 10px 0;
+  margin: 0;
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap !important;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+  color: $color-code;
+}
+.code-delim, .output-delim {
+  color: $color-delim;
+}
+.code-tick {
+  color: $color-tick;
+}
+.code-cross {
+  color: $color-cross;
+}
+
+.run {
+  & button {
+    margin: 0;
+    padding: 10px;
+    width: 160px;
+    border: 2px solid $button-color;
+    background: none;
+    line-height: normal;
+    border-radius: 80px;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+    color: $button-color;
+    text-decoration: none;
+    font-size:14px;
+    cursor: pointer;
+    &.active, &:hover {
+      background: $button-color;
+      color: $button-color-hover;
+    }
+  }
+}
