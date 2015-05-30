@@ -1,25 +1,24 @@
-<!-- Run Buttons -->
-<!-- <div class="run">
-  <button>
-    Run Part I
-  </button>
-  <button>
-    Run Part II
-  </button>
-  <button>
-    Run Part I &amp; II
-  </button>
-</div> -->
+
+<%
+  $passA = 0
+  $passE = 0
+  $total = 0
+%>
 <!-- Process Viewer -->
 <% `make clean -C ../arm11_8/src/` %>
 <% `make -C ../arm11_8/src/` %>
-  <!-- <%= codeDelim() %> ./assemble add01.s add01          <%= pass() %> -->
-  <% @files = %x(find ../arm11_1415_testsuite/test_cases -type f -name "*.s").split("\n") %>
+<% testPath = "../arm11_1415_testsuite/test_cases" %>
+  <% @files = %x(find #{testPath} -type f -name "*.s").split("\n") %>
 <pre class="process-viewer">
   <% @files.each do |file| %>
     <% fileName = fileName(file) %>
     <%= "#{codeDelim()} ./assemble #{fileName}.s #{fileName}".html_safe %>
-    <% `../arm11_8/src/assemble ../arm11_1415_testsuite/test_cases/#{fileName}.s tmp/outputs/#{fileName}` %>
-    <%= "#{outputDelim()} #{output(fileName)}".html_safe %>
+    <%= "#{codeDelim()} ./emulate #{fileName}".html_safe %>
+    <% `../arm11_8/src/assemble #{testPath}/#{fileName}.s tmp/outputs/#{fileName}` %>
+    <% `../arm11_8/src/emulate #{testPath}/#{fileName} > tmp/outputs/#{fileName}.out` %>
+    <%= "#{outputDelim()} #{outputAssemble(fileName)}".html_safe %>
+    <%= "#{outputDelim()} #{outputEmulate(fileName)}".html_safe %>
+
   <% end %>
+    <%= progressBar().html_safe %>
 </pre>

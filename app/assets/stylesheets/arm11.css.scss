@@ -3,8 +3,9 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 $bg-code: #3e3e3e;
 $color-delim: #aaa;
-$color-tick: #27F17C;
-$color-cross: #F50932;
+$color-green: #27F17C;
+$color-orange: #F87323;
+$color-red: #F50932;
 $color-code: #efefef;
 $button-color: #C53951;
 $button-color-hover: $color-code;
@@ -26,11 +27,15 @@ $button-color-hover: $color-code;
 .code-delim, .output-delim {
   color: $color-delim;
 }
-.code-tick {
-  color: $color-tick;
+.code-tick, .green {
+  color: $color-green;
 }
-.code-cross {
-  color: $color-cross;
+.code-cross, .red {
+  color: $color-red;
+}
+
+.orange {
+  color: $color-orange;
 }
 
 .run {

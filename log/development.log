@@ -7829,3 +7829,2847 @@ Served asset /arm11.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 20:32:24 +0100
 Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 20:42:59 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (20.3ms)
+Completed 200 OK in 34ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 20:42:59 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 20:42:59 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 20:42:59 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 20:42:59 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 20:42:59 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 20:42:59 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 20:43:01 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (16.4ms)
+Completed 200 OK in 30ms (Views: 29.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 20:43:01 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 20:43:01 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 20:43:01 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 20:43:01 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 20:43:01 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 20:43:01 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 20:50:57 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (941.6ms)
+Completed 200 OK in 979ms (Views: 978.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 20:50:58 +0100
+Served asset /application.css - 200 OK (2ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 20:50:58 +0100
+Served asset /arm11.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 20:50:58 +0100
+Served asset /jquery_ujs.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 20:50:58 +0100
+Served asset /application.js - 200 OK (5ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 20:50:58 +0100
+Served asset /arm11.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 20:50:58 +0100
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 21:02:25 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (933.7ms)
+Completed 200 OK in 953ms (Views: 952.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 21:02:26 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 21:02:26 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 21:02:26 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 21:02:26 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 21:02:26 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 21:02:26 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 21:19:59 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (911.3ms)
+Completed 200 OK in 925ms (Views: 924.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 21:20:00 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 21:20:00 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 21:20:00 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 21:20:00 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 21:20:00 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 21:20:00 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 21:22:43 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (583.4ms)
+Completed 200 OK in 596ms (Views: 596.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 21:22:43 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 21:22:43 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 21:22:43 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 21:22:43 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 21:22:43 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 21:22:43 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 21:24:18 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (595.6ms)
+Completed 200 OK in 609ms (Views: 608.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 21:24:19 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 21:24:19 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 21:24:19 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 21:24:19 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 21:24:19 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 21:24:19 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 22:14:51 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (1001.1ms)
+Completed 200 OK in 1014ms (Views: 1014.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 22:14:52 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 22:14:52 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 22:14:52 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 22:14:52 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 22:14:52 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 22:14:52 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 22:32:01 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (667.7ms)
+Completed 200 OK in 682ms (Views: 682.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 22:32:02 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 22:32:02 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 22:32:02 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 22:32:02 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 22:32:02 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 22:32:02 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 22:32:19 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (685.0ms)
+Completed 200 OK in 697ms (Views: 697.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 22:32:20 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 22:32:20 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 22:32:20 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 22:32:20 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 22:32:20 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 22:32:20 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-28 22:49:29 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (619.6ms)
+Completed 200 OK in 631ms (Views: 631.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-28 22:49:30 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-28 22:49:30 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-28 22:49:30 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-28 22:49:30 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-28 22:49:30 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-28 22:49:30 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 02:45:45 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (720.1ms)
+Completed 200 OK in 776ms (Views: 774.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 02:45:46 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 02:45:46 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 02:45:46 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 02:45:46 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 02:45:46 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 02:45:46 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 06:01:04 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (1224.5ms)
+Completed 200 OK in 1265ms (Views: 1264.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 06:01:05 +0100
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 06:01:05 +0100
+Served asset /arm11.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 06:01:05 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 06:01:05 +0100
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 06:01:05 +0100
+Served asset /arm11.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 06:01:05 +0100
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 06:04:20 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (323.8ms)
+Completed 500 Internal Server Error in 326ms
+
+ActionView::Template::Error (undefined local variable or method `file' for #<#<Class:0x00000101ad1568>:0x00000104016f58>):
+    16:   <!-- <%= codeDelim() %> ./assemble add01.s add01          <%= pass() %> -->
+    17:   <% @files = %x(find ../arm11_1415_testsuite/test_cases -type f -name "*.s").split("\n") %>
+    18: <pre class="process-viewer">
+    19:     <% fileName = fileName(file) %>
+    20:     <%= "#{codeDelim()} ./assemble #{fileName}.s #{fileName}".html_safe %>
+    21:     <%= %x(testArm11 #{fileName}) %>
+    22:     <%= "#{outputDelim()} #{output(fileName)}".html_safe %>
+  app/views/arm11/index.html.erb:19:in `_app_views_arm___index_html_erb___1304614430468849876_2181079160'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.5ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 06:04:46 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (302.8ms)
+Completed 200 OK in 316ms (Views: 316.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 06:04:46 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 06:04:46 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 06:04:46 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 06:04:46 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 06:04:46 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 06:04:46 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 06:05:22 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (288.5ms)
+Completed 200 OK in 303ms (Views: 302.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 06:05:22 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 06:05:22 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:22 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:22 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:22 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:22 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 06:05:41 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (276.9ms)
+Completed 200 OK in 292ms (Views: 291.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 06:05:41 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:41 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 06:05:41 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:41 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:41 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:41 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 06:05:44 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (228.3ms)
+Completed 200 OK in 239ms (Views: 238.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 06:05:45 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 06:05:45 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:45 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:45 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:45 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 06:05:45 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 06:06:10 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (615.4ms)
+Completed 200 OK in 629ms (Views: 629.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 06:06:11 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 06:06:11 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 06:06:11 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 06:06:11 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 06:06:11 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 06:06:11 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 06:07:14 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (689.9ms)
+Completed 200 OK in 706ms (Views: 705.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 06:07:15 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 06:07:15 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 06:07:15 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 06:07:15 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 06:07:15 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 06:07:15 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 19:58:14 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (770.3ms)
+Completed 200 OK in 814ms (Views: 813.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 19:58:14 +0100
+Served asset /arm11.css - 200 OK (2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 19:58:14 +0100
+Served asset /application.css - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 19:58:14 +0100
+Served asset /jquery.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 19:58:14 +0100
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 19:58:14 +0100
+Served asset /arm11.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 19:58:14 +0100
+Served asset /application.js - 200 OK (4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 19:59:11 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (646.7ms)
+Completed 200 OK in 663ms (Views: 662.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 19:59:11 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 19:59:11 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 19:59:11 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 19:59:11 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 19:59:11 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 19:59:11 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 19:59:16 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (657.9ms)
+Completed 200 OK in 668ms (Views: 667.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 19:59:16 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 19:59:16 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 19:59:16 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 19:59:16 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 19:59:16 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 19:59:16 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:00:26 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (639.4ms)
+Completed 200 OK in 651ms (Views: 650.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:00:27 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:00:27 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:00:27 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:00:27 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:00:27 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:00:27 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:03:08 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (650.4ms)
+Completed 200 OK in 661ms (Views: 661.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:03:09 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:03:09 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:03:09 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:03:09 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:03:09 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:03:09 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:04:18 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (687.3ms)
+Completed 200 OK in 700ms (Views: 700.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:04:19 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:04:19 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:19 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:19 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:19 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:19 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:04:47 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (630.8ms)
+Completed 200 OK in 643ms (Views: 642.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:04:48 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:04:48 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:48 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:48 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:48 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:48 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:04:48 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (639.3ms)
+Completed 200 OK in 652ms (Views: 651.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:04:49 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:04:49 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:49 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:49 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:49 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:04:49 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:06:32 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (651.5ms)
+Completed 200 OK in 663ms (Views: 663.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:06:33 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:06:33 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:06:33 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:06:33 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:06:33 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:06:33 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:09:07 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (641.6ms)
+Completed 200 OK in 657ms (Views: 656.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:09:08 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:09:08 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:09:08 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:09:08 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:09:08 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:09:08 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:09:46 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (643.8ms)
+Completed 200 OK in 655ms (Views: 655.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:09:47 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:09:47 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:09:47 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:09:47 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:09:47 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:09:47 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:10:48 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (649.4ms)
+Completed 200 OK in 664ms (Views: 664.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:10:48 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:10:48 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:10:48 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:10:48 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:10:48 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:10:48 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:13:20 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (641.8ms)
+Completed 200 OK in 653ms (Views: 653.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:13:20 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:13:20 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:13:20 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:13:20 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:13:20 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:13:20 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:15:49 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (637.9ms)
+Completed 200 OK in 652ms (Views: 651.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:15:49 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:15:49 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:15:49 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:15:49 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:15:49 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:15:49 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:17:56 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (634.7ms)
+Completed 200 OK in 651ms (Views: 650.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:17:57 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:17:57 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:17:57 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:17:57 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:17:57 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:17:57 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-29 20:32:43 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (658.3ms)
+Completed 200 OK in 670ms (Views: 669.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-29 20:32:44 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-29 20:32:44 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-29 20:32:44 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-29 20:32:44 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-29 20:32:44 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-29 20:32:44 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 16:39:55 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (3194.7ms)
+Completed 200 OK in 3231ms (Views: 3229.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 16:39:58 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 16:39:58 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 16:39:58 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 16:39:58 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 16:39:58 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 16:39:58 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:34:26 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (1206.4ms)
+Completed 500 Internal Server Error in 1212ms
+
+ActionView::Template::Error (undefined local variable or method `testPath' for #<#<Class:0x000001058697e0>:0x000001058687a0>):
+    9:     <%= "#{codeDelim()} ./assemble #{fileName}.s #{fileName}".html_safe %>
+    10:     <% `../arm11_8/src/assemble #{testPath}/#{fileName}.s tmp/outputs/#{fileName}` %>
+    11:     <% emulateOutput = `../arm11_8/src/emulate #{testPath}/#{fileName}` %>
+    12:     <%= "#{outputDelim()} #{outputAssemble(fileName)}".html_safe %>
+    13:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    14:   <% end %>
+    15: </pre>
+  app/helpers/arm11_helper.rb:19:in `outputAssemble'
+  app/views/arm11/index.html.erb:12:in `block in _app_views_arm___index_html_erb___4598997053771820241_2160940420'
+  app/views/arm11/index.html.erb:7:in `each'
+  app/views/arm11/index.html.erb:7:in `_app_views_arm___index_html_erb___4598997053771820241_2160940420'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:34:48 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2474.9ms)
+Completed 200 OK in 2491ms (Views: 2490.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:34:50 +0100
+Served asset /application.css - 304 Not Modified (11ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:34:50 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:34:50 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:34:50 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:34:50 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:34:50 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:35:50 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (3407.7ms)
+Completed 200 OK in 3420ms (Views: 3419.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:35:54 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:35:54 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:35:54 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:35:54 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:35:54 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:35:54 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:36:02 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2780.5ms)
+Completed 200 OK in 2791ms (Views: 2790.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:36:05 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:36:05 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:36:05 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:36:05 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:36:05 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:36:05 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:36:24 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2703.1ms)
+Completed 200 OK in 2712ms (Views: 2712.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:36:27 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:36:27 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:36:27 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:36:27 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:36:27 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:36:27 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:37:56 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (3705.4ms)
+Completed 200 OK in 3719ms (Views: 3718.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:38:00 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:38:00 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:38:00 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:38:00 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:38:00 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:38:00 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:38:26 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2798.4ms)
+Completed 200 OK in 2808ms (Views: 2807.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:38:29 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:38:29 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:38:29 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:38:29 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:38:29 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:38:29 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:39:40 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (3066.2ms)
+Completed 200 OK in 3076ms (Views: 3075.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:39:44 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:39:44 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:39:44 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:39:44 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:39:44 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:39:44 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:40:58 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2928.2ms)
+Completed 200 OK in 2954ms (Views: 2953.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:41:01 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:41:02 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:41:02 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:41:02 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:41:02 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:41:02 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:41:59 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (289.1ms)
+Completed 500 Internal Server Error in 291ms
+
+ActionView::Template::Error (undefined method `echo' for #<#<Class:0x00000101958ce0>:0x0000010582b328>):
+    9:     <%= "#{codeDelim()} ./assemble #{fileName}.s #{fileName}".html_safe %>
+    10:     <% `../arm11_8/src/assemble #{testPath}/#{fileName}.s tmp/outputs/#{fileName}` %>
+    11:     <% emulateOutput = `../arm11_8/src/emulate #{testPath}/#{fileName}` %>
+    12:     <%= "#{outputDelim()} #{outputAssemble(fileName)}".html_safe %>
+    13:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    14:     
+    15:   <% end %>
+  app/helpers/arm11_helper.rb:19:in `outputAssemble'
+  app/views/arm11/index.html.erb:12:in `block in _app_views_arm___index_html_erb___4598997053771820241_2161445660'
+  app/views/arm11/index.html.erb:7:in `each'
+  app/views/arm11/index.html.erb:7:in `_app_views_arm___index_html_erb___4598997053771820241_2161445660'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:42:24 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2424.6ms)
+Completed 200 OK in 2439ms (Views: 2438.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:42:26 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:42:26 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:42:26 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:42:26 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:42:26 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:42:26 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:43:55 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (689.0ms)
+Completed 500 Internal Server Error in 692ms
+
+ActionView::Template::Error (undefined local variable or method `emulateOutput' for #<#<Class:0x00000101749288>:0x00000102a8b918>):
+    10:     <% `../arm11_8/src/assemble #{testPath}/#{fileName}.s tmp/outputs/#{fileName}` %>
+    11:     <%= `../arm11_8/src/emulate #{testPath}/#{fileName}` %>
+    12:     <%= "#{outputDelim()} #{outputAssemble(fileName)}".html_safe %>
+    13:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    14: 
+    15:   <% end %>
+    16: </pre>
+  app/views/arm11/index.html.erb:13:in `block in _app_views_arm___index_html_erb___4598997053771820241_2169787620'
+  app/views/arm11/index.html.erb:7:in `each'
+  app/views/arm11/index.html.erb:7:in `_app_views_arm___index_html_erb___4598997053771820241_2169787620'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (9.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:44:13 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2595.7ms)
+Completed 200 OK in 2605ms (Views: 2604.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:44:15 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:44:15 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:44:15 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:44:15 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:44:15 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:44:15 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:44:46 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2921.2ms)
+Completed 200 OK in 2932ms (Views: 2931.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:44:49 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:44:49 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:44:49 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:44:49 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:44:49 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:44:49 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:46:09 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2429.1ms)
+Completed 200 OK in 2439ms (Views: 2439.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:46:11 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:46:11 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:46:11 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:46:11 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:46:11 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:46:11 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:48:58 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2280.2ms)
+Completed 200 OK in 2289ms (Views: 2289.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:49:00 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:49:00 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:49:00 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:49:00 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:49:00 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:49:00 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:49:38 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2402.1ms)
+Completed 200 OK in 2420ms (Views: 2419.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:49:40 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:49:40 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:49:40 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:49:40 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:49:40 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:49:40 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:54:11 +0100
+
+SyntaxError (/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:24: invalid multibyte char (UTF-8)
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:24: invalid multibyte char (UTF-8)
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:24: syntax error, unexpected end-of-input, expecting keyword_end
+    out =%∞x`diff outputFile #{@testPath}/#{fileName}.out`
+             ^):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/arm11_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:54:20 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2827.9ms)
+Completed 200 OK in 2842ms (Views: 2841.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:54:23 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:54:23 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:54:23 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:54:23 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:54:23 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:54:23 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:59:06 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2735.4ms)
+Completed 200 OK in 2748ms (Views: 2747.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:08 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:08 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:08 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:08 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:08 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:08 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:59:10 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2276.5ms)
+Completed 200 OK in 2287ms (Views: 2286.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:13 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:13 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:13 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:13 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:13 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:13 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:59:35 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (668.8ms)
+Completed 200 OK in 677ms (Views: 677.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:36 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:36 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:36 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:36 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:36 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:36 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:59:44 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (687.5ms)
+Completed 200 OK in 697ms (Views: 696.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:45 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:45 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:45 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:45 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:45 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:45 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:59:53 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (692.3ms)
+Completed 200 OK in 701ms (Views: 700.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:54 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:54 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:54 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:54 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:54 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:54 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 21:59:56 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (829.3ms)
+Completed 200 OK in 847ms (Views: 846.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:57 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 21:59:57 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:57 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:57 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:57 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 21:59:57 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:00:16 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (737.8ms)
+Completed 200 OK in 749ms (Views: 748.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:00:17 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:00:17 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:17 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:17 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:17 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:17 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:00:30 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (678.8ms)
+Completed 200 OK in 690ms (Views: 690.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:00:30 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:00:30 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:30 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:30 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:30 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:30 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:00:45 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (696.9ms)
+Completed 200 OK in 709ms (Views: 709.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:45 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:00:45 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:00:45 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:45 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:46 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:00:46 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:01:19 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (716.1ms)
+Completed 200 OK in 727ms (Views: 726.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:01:19 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:01:19 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:01:19 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:01:19 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:01:19 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:01:19 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:01:24 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2412.8ms)
+Completed 200 OK in 2422ms (Views: 2421.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:01:27 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:01:27 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:01:27 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:01:27 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:01:27 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:01:27 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:03:50 +0100
+
+SyntaxError (/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:35: syntax error, unexpected keyword_else
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:37: syntax error, unexpected keyword_end
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:42: syntax error, unexpected keyword_else
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:44: syntax error, unexpected keyword_end
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:48: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/arm11_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:05:27 +0100
+
+SyntaxError (/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:35: syntax error, unexpected keyword_else
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:37: syntax error, unexpected keyword_end
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:42: syntax error, unexpected keyword_else
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:44: syntax error, unexpected keyword_end
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:48: syntax error, unexpected keyword_end):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/arm11_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:07:29 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (610.4ms)
+Completed 500 Internal Server Error in 613ms
+
+ActionView::Template::Error (wrong number of arguments (1 for 2)):
+    9:     <%= "#{codeDelim()} ./assemble #{fileName}.s #{fileName}".html_safe %>
+    10:     <% `../arm11_8/src/assemble #{testPath}/#{fileName}.s tmp/outputs/#{fileName}` %>
+    11:     <% emulateOutput = `../arm11_8/src/emulate #{testPath}/#{fileName}` %>
+    12:     <%= "#{outputDelim()} #{outputAssemble(fileName)}".html_safe %>
+    13:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    14: 
+    15:   <% end %>
+  app/helpers/arm11_helper.rb:31:in `output'
+  app/helpers/arm11_helper.rb:25:in `outputAssemble'
+  app/views/arm11/index.html.erb:12:in `block in _app_views_arm___index_html_erb___4598997053771820241_2170413600'
+  app/views/arm11/index.html.erb:7:in `each'
+  app/views/arm11/index.html.erb:7:in `_app_views_arm___index_html_erb___4598997053771820241_2170413600'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (7.6ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (16.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:07:44 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2507.6ms)
+Completed 200 OK in 2518ms (Views: 2517.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:07:47 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:07:47 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:07:47 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:07:47 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:07:47 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:07:47 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:11:43 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2302.8ms)
+Completed 200 OK in 2316ms (Views: 2315.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:11:46 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:11:46 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:11:46 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:11:46 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:11:46 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:11:46 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:16:50 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2820.0ms)
+Completed 200 OK in 2843ms (Views: 2841.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:16:53 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:16:53 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:16:53 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:16:53 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:16:53 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:16:53 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:21:50 +0100
+
+SyntaxError (/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:69: syntax error, unexpected keyword_class, expecting ')'
+  def start_span(class)
+                      ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:70: syntax error, unexpected tSTRING_DEND
+    return "<span class=\"#{class}\">"
+                                  ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:71: syntax error, unexpected keyword_end, expecting tSTRING_DEND
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:75: syntax error, unexpected keyword_end, expecting tSTRING_DEND):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/arm11_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:22:02 +0100
+
+SyntaxError (/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:71: syntax error, unexpected keyword_class, expecting ')'
+  def start_span(class)
+                      ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:72: syntax error, unexpected tSTRING_DEND
+    return "<span class=\"#{class}\">"
+                                  ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:73: syntax error, unexpected keyword_end, expecting tSTRING_DEND
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:77: syntax error, unexpected keyword_end, expecting tSTRING_DEND):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/arm11_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:22:24 +0100
+
+SyntaxError (/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:71: syntax error, unexpected keyword_class, expecting ')'
+  def start_span(class)
+                      ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:72: syntax error, unexpected tSTRING_DEND
+    return "<span class=\"#{class}\">"
+                                  ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:73: syntax error, unexpected keyword_end, expecting tSTRING_DEND
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:77: syntax error, unexpected keyword_end, expecting tSTRING_DEND):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/arm11_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:23:29 +0100
+
+SyntaxError (/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:71: syntax error, unexpected keyword_class, expecting ')'
+  def start_span(class)
+                      ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:72: syntax error, unexpected tSTRING_DEND
+    return "<span class=\"#{class}\">"
+                                  ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:73: syntax error, unexpected keyword_end, expecting tSTRING_DEND
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:77: syntax error, unexpected keyword_end, expecting tSTRING_DEND):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/arm11_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:23:41 +0100
+
+SyntaxError (/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:71: syntax error, unexpected keyword_class, expecting ')'
+  def start_span(class)
+                      ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:72: syntax error, unexpected tSTRING_DEND
+    return "<span class=\"#{class}\">"
+                                  ^
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:73: syntax error, unexpected keyword_end, expecting tSTRING_DEND
+/Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/helpers/arm11_helper.rb:77: syntax error, unexpected keyword_end, expecting tSTRING_DEND):
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/arm11_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:24:11 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2488.1ms)
+Completed 500 Internal Server Error in 2492ms
+
+ActionView::Template::Error (undefined local variable or method `total' for #<#<Class:0x00000103a267b0>:0x00000103a25b30>):
+    13:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    14: 
+    15:   <% end %>
+    16:     <%= progressBar() %>
+    17: </pre>
+  app/helpers/arm11_helper.rb:53:in `progressBar'
+  app/views/arm11/index.html.erb:16:in `_app_views_arm___index_html_erb___4598997053771820241_2177967560'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:24:43 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2501.1ms)
+Completed 500 Internal Server Error in 2503ms
+
+ActionView::Template::Error (undefined local variable or method `total' for #<#<Class:0x00000103a267b0>:0x00000105abcf10>):
+    13:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    14: 
+    15:   <% end %>
+    16:     <%= progressBar().html_safe %>
+    17: </pre>
+  app/helpers/arm11_helper.rb:53:in `progressBar'
+  app/views/arm11/index.html.erb:16:in `_app_views_arm___index_html_erb___4598997053771820241_2163130200'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:27:35 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2808.9ms)
+Completed 500 Internal Server Error in 2812ms
+
+ActionView::Template::Error (undefined local variable or method `total' for #<#<Class:0x00000103a267b0>:0x00000101d076c0>):
+    19:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    20: 
+    21:   <% end %>
+    22:     <%= progressBar().html_safe %>
+    23: </pre>
+  app/helpers/arm11_helper.rb:53:in `progressBar'
+  app/views/arm11/index.html.erb:22:in `_app_views_arm___index_html_erb___4598997053771820241_2162700940'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:27:39 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2390.8ms)
+Completed 500 Internal Server Error in 2395ms
+
+ActionView::Template::Error (undefined local variable or method `total' for #<#<Class:0x00000102c8dc48>:0x00000102c8ce88>):
+    19:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    20: 
+    21:   <% end %>
+    22:     <%= progressBar().html_safe %>
+    23: </pre>
+  app/helpers/arm11_helper.rb:50:in `progressBar'
+  app/views/arm11/index.html.erb:22:in `_app_views_arm___index_html_erb___4598997053771820241_2162700940'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:28:06 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2391.7ms)
+Completed 500 Internal Server Error in 2393ms
+
+ActionView::Template::Error (undefined local variable or method `total' for #<#<Class:0x00000102c8dc48>:0x00000105832b50>):
+    19:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    20: 
+    21:   <% end %>
+    22:     <%= progressBar().html_safe %>
+    23: </pre>
+  app/helpers/arm11_helper.rb:50:in `progressBar'
+  app/views/arm11/index.html.erb:22:in `_app_views_arm___index_html_erb___4598997053771820241_2162700940'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (7.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:28:28 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2475.2ms)
+Completed 500 Internal Server Error in 2477ms
+
+ActionView::Template::Error (undefined local variable or method `total' for #<#<Class:0x00000102830420>:0x0000010282a570>):
+    19:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    20: 
+    21:   <% end %>
+    22:     <%= progressBar().html_safe %>
+    23: </pre>
+  app/helpers/arm11_helper.rb:50:in `progressBar'
+  app/views/arm11/index.html.erb:22:in `_app_views_arm___index_html_erb___4598997053771820241_2162700940'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (10.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:28:55 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2510.4ms)
+Completed 200 OK in 2520ms (Views: 2519.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:28:57 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:28:57 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:28:57 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:28:57 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:28:57 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:28:57 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:29:48 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2399.5ms)
+Completed 200 OK in 2425ms (Views: 2424.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:29:50 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:29:50 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:29:50 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:29:50 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:29:50 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:29:50 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:30:03 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2432.5ms)
+Completed 200 OK in 2444ms (Views: 2443.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:30:06 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:30:06 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:30:06 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:30:06 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:30:06 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:30:06 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:30:18 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2485.4ms)
+Completed 200 OK in 2497ms (Views: 2496.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:30:21 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:30:21 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:30:21 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:30:21 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:30:21 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:30:21 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:31:28 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2505.7ms)
+Completed 200 OK in 2520ms (Views: 2519.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:31:30 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:31:30 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:31:30 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:31:30 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:31:30 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:31:30 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:32:22 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (240.5ms)
+Completed 500 Internal Server Error in 242ms
+
+ActionView::Template::Error (undefined local variable or method `emulateOutput' for #<#<Class:0x00000103944a68>:0x000001038c5740>):
+    16:     <% `../arm11_8/src/assemble #{testPath}/#{fileName}.s tmp/outputs/#{fileName}` %>
+    17:     <% `../arm11_8/src/emulate #{testPath}/#{fileName} > tmp/outputs/#{fileName}.out` %>
+    18:     <%= "#{outputDelim()} #{outputAssemble(fileName)}".html_safe %>
+    19:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    20: 
+    21:   <% end %>
+    22:     <%= progressBar().html_safe %>
+  app/views/arm11/index.html.erb:19:in `block in _app_views_arm___index_html_erb___4598997053771820241_2177234960'
+  app/views/arm11/index.html.erb:13:in `each'
+  app/views/arm11/index.html.erb:13:in `_app_views_arm___index_html_erb___4598997053771820241_2177234960'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.9ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (17.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:32:32 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (247.2ms)
+Completed 500 Internal Server Error in 249ms
+
+ActionView::Template::Error (undefined local variable or method `emulateOutput' for #<#<Class:0x000001014e5eb0>:0x000001014dfec0>):
+    16:     <% `../arm11_8/src/assemble #{testPath}/#{fileName}.s tmp/outputs/#{fileName}` %>
+    17:     <% `../arm11_8/src/emulate #{testPath}/#{fileName} > tmp/outputs/#{fileName}.out` %>
+    18:     <%= "#{outputDelim()} #{outputAssemble(fileName)}".html_safe %>
+    19:     <%= "#{outputDelim()} #{outputEmulate(fileName, emulateOutput)}".html_safe %>
+    20: 
+    21:   <% end %>
+    22:     <%= progressBar().html_safe %>
+  app/views/arm11/index.html.erb:19:in `block in _app_views_arm___index_html_erb___4598997053771820241_2177234960'
+  app/views/arm11/index.html.erb:13:in `each'
+  app/views/arm11/index.html.erb:13:in `_app_views_arm___index_html_erb___4598997053771820241_2177234960'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (12.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:36:13 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (3003.1ms)
+Warning. Error encountered while saving cache /Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/tmp/cache/sass/3aca5e431ebf4e308a0e47ff6e2ff6d9835a31eb/arm11.css.scssc: can't dump anonymous class #<Class:0x00000101471bc8>
+
+Completed 500 Internal Server Error in 3038ms
+
+ActionView::Template::Error (Undefined variable: "$color-code".
+  (in /Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/app/assets/stylesheets/arm11.css.scss)):
+    2: <html>
+    3: <head>
+    4:   <title>Arm11Test</title>
+    5:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    6:   <%= javascript_include_tag "application" %>
+    7:   <%= csrf_meta_tags %>
+    8: </head>
+  app/assets/stylesheets/arm11.css.scss:11
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___3976719537780000789_2193874580'
+
+
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+  Rendered /Users/elliotgreenwood/.rvm/gems/ruby-2.1.1/gems/actionpack-3.2.13/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:37:14 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2499.6ms)
+Warning. Error encountered while saving cache /Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/tmp/cache/sass/3aca5e431ebf4e308a0e47ff6e2ff6d9835a31eb/arm11.css.scssc: can't dump anonymous class #<Class:0x00000101471bc8>
+
+Compiled arm11.css  (12ms)  (pid 24419)
+Compiled application.css  (1ms)  (pid 24419)
+Completed 200 OK in 2535ms (Views: 2534.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:37:16 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:37:16 +0100
+Served asset /arm11.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:37:16 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:37:16 +0100
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:37:16 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:37:16 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:37:48 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2723.7ms)
+Completed 200 OK in 2737ms (Views: 2735.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:37:51 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:37:51 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:37:51 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:37:51 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:37:51 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:37:51 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1&livereload=1433021895257" for 127.0.0.1 at 2015-05-30 22:38:15 +0100
+Warning. Error encountered while saving cache /Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/tmp/cache/sass/3aca5e431ebf4e308a0e47ff6e2ff6d9835a31eb/arm11.css.scssc: can't dump anonymous class #<Class:0x00000101471bc8>
+
+Compiled arm11.css  (13ms)  (pid 24419)
+Served asset /arm11.css - 200 OK (17ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:39:07 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2839.8ms)
+Compiled application.css  (1ms)  (pid 24419)
+Completed 200 OK in 2861ms (Views: 2860.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:39:10 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:39:10 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:39:10 +0100
+Served asset /application.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:39:10 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:39:10 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:39:10 +0100
+Served asset /arm11.css - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:39:45 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2703.2ms)
+Completed 200 OK in 2715ms (Views: 2714.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:39:48 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:39:48 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:39:48 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:39:48 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:39:48 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:39:48 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:41:08 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2544.8ms)
+Completed 200 OK in 2560ms (Views: 2559.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:41:10 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:41:10 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:41:10 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:41:10 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:41:10 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:41:11 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1&livereload=1433022150528" for 127.0.0.1 at 2015-05-30 22:42:30 +0100
+Warning. Error encountered while saving cache /Users/elliotgreenwood/Elliot Greenwood/I/Imperial/Group Projects/Year 1 - C Project/arm11_test/tmp/cache/sass/3aca5e431ebf4e308a0e47ff6e2ff6d9835a31eb/arm11.css.scssc: can't dump anonymous class #<Class:0x00000101471bc8>
+
+Compiled arm11.css  (13ms)  (pid 24419)
+Served asset /arm11.css - 200 OK (17ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:42:34 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2652.3ms)
+Compiled application.css  (1ms)  (pid 24419)
+Completed 200 OK in 2672ms (Views: 2671.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:42:37 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:42:37 +0100
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:42:37 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:42:37 +0100
+Served asset /arm11.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:42:37 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:42:37 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:42:50 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2770.7ms)
+Completed 200 OK in 2781ms (Views: 2780.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:42:53 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:42:53 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:42:53 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:42:53 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:42:53 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:42:53 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:43:14 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2633.0ms)
+Completed 200 OK in 2645ms (Views: 2644.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:43:16 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:43:16 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:43:16 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:43:16 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:43:16 +0100
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:43:16 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-05-30 22:43:41 +0100
+Processing by Arm11Controller#index as HTML
+  Rendered arm11/index.html.erb within layouts/application (2716.7ms)
+Completed 200 OK in 2731ms (Views: 2730.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-05-30 22:43:44 +0100
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.css?body=1" for 127.0.0.1 at 2015-05-30 22:43:44 +0100
+Served asset /arm11.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-05-30 22:43:44 +0100
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/arm11.js?body=1" for 127.0.0.1 at 2015-05-30 22:43:44 +0100
+Served asset /arm11.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-05-30 22:43:44 +0100
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-05-30 22:43:44 +0100
+Served asset /application.js - 304 Not Modified (0ms)
