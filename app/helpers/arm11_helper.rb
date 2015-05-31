@@ -28,8 +28,10 @@ module Arm11Helper
     if out == ""
       if isAssemble
         $passA += 1
+        $assembleArray[$total-0.5] = true;
       else
         $passE += 1
+        $emulateArray[$total-1] = true;
       end
       return pass()
     else
@@ -45,9 +47,12 @@ module Arm11Helper
     percents << "Assemble: #{$passA}/%d, Emulate: #{$passE}/%d" %[$total, $total]
 
     # bar
-    green  = [$passA, $passE].min
-    orange = ($passA - $passE).abs
-    red    = $total - [$passA, $passE].max
+    aCount = $assembleArray.count { |i| i }
+    eCount = $emulateArray.count { |i| i }
+    zipped = $assembleArray.zip($emulateArray)
+    green  = zipped.count { |a, b| a && b }
+    orange = zipped.count { |a, b| (!a && b) || (a && !b) }
+    red    = zipped.count { |a, b| !(a || b) }
 
     bar << "["
     bar << start_span("green")

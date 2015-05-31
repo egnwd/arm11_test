@@ -3,6 +3,8 @@
   $passA = 0
   $passE = 0
   $total = 0
+  $assembleArray = Array.new(63) { |i| false }
+  $emulateArray = Array.new(63) { |i| false }
 %>
 <!-- Process Viewer -->
 <% `make clean -C ../arm11_8/src/` %>
